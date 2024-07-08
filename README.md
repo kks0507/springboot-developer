@@ -10,3 +10,5 @@
 02. 이슈 제목/내용을 적고 [Submit new issue] 클릭
 
 + [closed issue](https://github.com/shinsunyoung/springboot-developer/issues?q=is%3Aissue+is%3Aclosed)에는 이미 해결된 이슈들이 있습니다. 참고하시어 문제를 해결하시면 보다 빠르게 해결이 가능합니다.
+
++ 내가 최고야.
